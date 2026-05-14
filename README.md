@@ -23,7 +23,3 @@ Ardından analiz dosyasını çalıştırın:
 python enron_analizi.py
 ```
 Not: Script ilk çalıştığında veri setini (email-Enron.txt.gz) otomatik olarak indirecektir.
-
-## Rapor Hakkında
-Çıktılardaki metrikler ve yorumlar raporlanarak PDF formatına dönüştürülmüştür. 
-Geliştirme ortamı ve kodlar bu dizinde yer almaktadır.
