@@ -1,5 +1,7 @@
 # Enron Sosyal Ağ Analizi Projesi
 
+![Terminal Çıktısı](Animation.gif)
+
 Bu proje, Sosyal Ağ Analizi dersi kapsamında Enron e-posta veri seti kullanılarak gerçekleştirilmiş ağ analitiği çalışmalarını içermektedir.
 
 ## Proje İçeriği
